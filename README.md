@@ -90,6 +90,7 @@ void loop() {
 
 
 Notes
+
 Ensure your LED strip's power requirements are met.
 Adjust LED_COUNT in the code to match the number of LEDs on your strip.
 The brightness and color transitions can be adjusted in the code as needed.
